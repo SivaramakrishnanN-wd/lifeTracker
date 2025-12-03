@@ -5,7 +5,9 @@ function App() {
 
   return (
   <Provider store={store}>
-    <></>
+    <>
+      App
+    </>
   </Provider>
   )
 }
